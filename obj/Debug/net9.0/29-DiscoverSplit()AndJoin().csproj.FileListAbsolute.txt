@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\bin\Debug\net9.0\29-DiscoverSplit()AndJoin().exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\bin\Debug\net9.0\29-DiscoverSplit()AndJoin().deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\bin\Debug\net9.0\29-DiscoverSplit()AndJoin().runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\bin\Debug\net9.0\29-DiscoverSplit()AndJoin().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\bin\Debug\net9.0\29-DiscoverSplit()AndJoin().pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\refint\29-DiscoverSplit()AndJoin().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\ref\29-DiscoverSplit()AndJoin().dll
