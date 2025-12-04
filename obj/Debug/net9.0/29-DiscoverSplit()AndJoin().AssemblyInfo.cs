@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("29-DiscoverSplit()AndJoin()")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+958b253e66d050bcec826ccb84d50157888beaaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ecdbfa4ecac0946629248bc2932ff64382de31")]
 [assembly: System.Reflection.AssemblyProductAttribute("29-DiscoverSplit()AndJoin()")]
 [assembly: System.Reflection.AssemblyTitleAttribute("29-DiscoverSplit()AndJoin()")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
