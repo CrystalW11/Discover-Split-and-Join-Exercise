@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\n
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\ref\29-DiscoverSplit()AndJoin().dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\29-DiscoverSplit()AndJoin()\obj\Debug\net9.0\29-DiscoverSplit()AndJoin().sourcelink.json
